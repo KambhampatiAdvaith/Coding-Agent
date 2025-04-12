@@ -24,8 +24,7 @@ Coding-Agent -A smarter and more efficient and powerful alternative to other AI-
 - Unlimited Code Output – Get full-length, functional code instead of small snippets.
 - More Control – Modify and self-host the AI on your own servers or run locally.
 
-# License 
-- This is absolutely free and anyone can modify it and use it without any restrictions!
+
 
 
 
